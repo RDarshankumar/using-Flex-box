@@ -1,0 +1,1 @@
+iss ma sirf flex box using kiya hum kise flex box ma ek responsive layout bana skehty ha iss ma mana sirf ek zameein .com waly same bas thora changing karke banai ha aur yeh sirf aur sirf flex box se bani ha 
